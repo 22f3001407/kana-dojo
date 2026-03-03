@@ -707,7 +707,7 @@
     "character": "Guild Handler lines",
     "id": 71,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -726,7 +726,7 @@
     "game": "Final Fantasy Type-0",
     "character": "Class Zero",
     "id": 73,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
