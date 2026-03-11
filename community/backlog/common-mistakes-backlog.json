@@ -565,7 +565,7 @@
     "explanation": "ので is smoother/neutral for reason. (Pattern set 4)",
     "id": 71,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "もし雨が降ります、行きません。",
@@ -573,7 +573,7 @@
     "explanation": "Conditional needs たら/なら etc. (Pattern set 4)",
     "id": 72,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "これは私のです本。",
@@ -581,14 +581,14 @@
     "explanation": "Place の correctly in noun phrase. (Pattern set 4)",
     "id": 73,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "会議は三時からで始まります。",
     "correct": "会議は三時から始まります。",
     "explanation": "Remove unnecessary particle after から. (Pattern set 4)",
     "id": 74,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
