@@ -757,7 +757,7 @@
     "note": "Prohibitive nuance. (Set 4)",
     "id": 76,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんくるないさ",
@@ -797,7 +797,7 @@
     "note": "Traditional gratitude expression. (Set 4)",
     "id": 80,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ほんま",
@@ -806,7 +806,7 @@
     "region": "Kansai",
     "note": "Very common in Osaka/Kyoto speech. (Set 5)",
     "id": 81,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
